@@ -1,7 +1,7 @@
 ## 👋 Prazer! Eduardo.
 
 - 👀 Estou interessado em Desenvolvimento Back-End
-- 📫 Qualquer coisa, para contato me mande um e-mail! eduardoongaratt@gmail.com
+- 📫 Para contato me mande um e-mail! eduardoongaratt@gmail.com
 
 <hr>
 
