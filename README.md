@@ -1,6 +1,6 @@
 ## 👋 Prazer! Eduardo.
 
-- 👀 Estou interessado em Desenvolvimento Back-End
+- Desenvolvedor Back-End
 - 📫 Para contato me mande um e-mail! eduardoongaratt@gmail.com
 
 <hr>
@@ -32,7 +32,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  
   
 </div>
 
