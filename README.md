@@ -1,4 +1,4 @@
-## 👋 Prazer! Eduardo.
+## Prazer! Eduardo Ongaratto.
 
 - Desenvolvedor Back-End
 - 📫 Para contato me mande um e-mail! eduardoongaratt@gmail.com
@@ -7,7 +7,8 @@
 
 ### Mídias sociais
 <div style="display: inline_block">
-  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"> https://www.linkedin.com/in/eduardoongaratto
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-ongaratto/)
 </div>
 
 
