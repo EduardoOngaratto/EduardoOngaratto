@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Eduardo Ongaratto</h2>
+<h3 align="left">Hi 👋! My name is Eduardo Ongaratto</h3>
 
 ###
 
-<h4 align="left">I'm a Computer Science student at URI - Erechim and a Back-end development intern at Compass UOL, specializing in Node.js. I'm focused on improving my technical skills and contributing to innovative solutions, continuously learning to deliver top performance and collaborate effectively with my team.</h4>
+<p align="left">I'm a Computer Science student at URI - Erechim and a Back-end development intern at Compass UOL, specializing in Node.js. I'm focused on improving my technical skills and contributing to innovative solutions, continuously learning to deliver top performance and collaborate effectively with my team.</p>
 
 ###
 
@@ -17,8 +17,12 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://j.gifs.com/v14zaQ.gif"  />
+<img align="left" height="200" src="https://i.pinimg.com/originals/04/6c/a2/046ca28f051f69e370f7b327e41a882c.gif"  />
+
+###
+
+<div align="center">
+  <img height="200" src="https://64.media.tumblr.com/a35bfe3ad31e23991ddf9a076dc6b7ae/tumblr_n5orqrpMmu1t3zq0no1_400.gif"  />
 </div>
 
 ###
