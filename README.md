@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science student at URI - Erechim and a Back-end development intern at Compass UOL, specializing in Node.js. I'm focused on improving my technical skills and contributing to innovative solutions, continuously learning to deliver top performance and collaborate effectively with my team.</p>
+<p align="left">I'm a Computer Science student at URI - Erechim and a back-end trainee developer at Compass UOL, specializing in Node.js. I'm dedicated to continuously improving my technical skills and contributing to innovative, efficient solutions. Always eager to learn, I strive to deliver high-performance results and collaborate effectively with my team.</p>
 
 ###
 
